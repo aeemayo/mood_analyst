@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"example/mood_analyst/mood"
-	"example/mood_analyst/spotify"
+	"github.com/aeemayo/mood_analyst/mood"
+	"github.com/aeemayo/mood_analyst/spotify"
 
 	"github.com/TeneoProtocolAI/teneo-agent-sdk/pkg/agent"
 	"github.com/joho/godotenv"

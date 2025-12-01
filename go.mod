@@ -1,6 +1,6 @@
-module example/mood_analyst
+module github.com/aeemayo/mood_analyst
 
-go 1.25.4
+go 1.24.0
 
 require (
 	github.com/TeneoProtocolAI/teneo-agent-sdk v0.3.0
